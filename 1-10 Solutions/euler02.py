@@ -10,3 +10,4 @@ while first[0] <= 4000000:
   first[1] = z
 print(first)
 print(evenSUM)
+#Solved
