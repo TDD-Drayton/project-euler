@@ -7,3 +7,4 @@ for i in range(100, 999):
             container.append(num)
 
 print(max(container))
+#Solved
