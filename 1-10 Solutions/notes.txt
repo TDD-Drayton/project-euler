@@ -1,0 +1,10 @@
+euler01.py
+euler02.py
+euler03.py
+euler04.py
+euler05.py
+euler06.py
+euler07.py
+euler08.py
+euler09.py
+euler10.py
