@@ -1,8 +1,7 @@
 #What is the smallest positive number that is evenly divisible by all of the numbers from 1 to 20?
 import math
 
-#returns least common multiple of a and b
-#helper function
+#returns least common multiple of a and  #helper function
 def lcm(a,b):
     return a*b // math.gcd(a, b)
 
