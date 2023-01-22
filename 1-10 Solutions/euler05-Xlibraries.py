@@ -13,3 +13,4 @@ def smallest_multiple(n):
     return result
 
 print(smallest_multiple(20))
+#no library challege 
