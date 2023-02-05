@@ -8,3 +8,14 @@ euler07.py
 euler08.py
 euler09.py
 euler10.py
+
+euler01.java
+euler02.java
+euler03.java
+euler04.java
+euler05.java
+euler06.java
+euler07.java
+euler08.java
+euler09.java
+euler10.java
